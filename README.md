@@ -2,7 +2,7 @@
 
 > **480P-input $0.04; 480P $0.066; 720P-input $0.0858** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-b77bd2)** · **[Get an API key](https://go.apimart.ai/k-f16743)**
 
 Everything here refers to **seedance-2.0** — also written **seedance2.0** or **seedance 2.0**.
 
