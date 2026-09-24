@@ -1,0 +1,15 @@
+{
+  "repo": "seedance2.0-seedance-2.0-gateway",
+  "model": "seedance-2.0",
+  "display": "Seedance 2.0",
+  "variant": "gateway",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "480P-input": 0.04,
+    "480P": 0.066,
+    "720P-input": 0.08584,
+    "720P": 0.142
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
